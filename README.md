@@ -1,34 +1,27 @@
-# Hi, I'm Kadhir Ponnambalam
+# Kadhir Ponnambalam
 
-McMaster Engineering student (BEng Co-op, 2025-2029) focused on embedded systems, backend tooling, hardware-adjacent software(Verilog and FPGA design).
+McMaster Engineering (BEng Co-op, '25–'29) · Embedded systems · FPGA/Verilog · Backend tooling
 
-## What I do
+---
 
-- Build practical engineering systems end-to-end, from prototype hardware to backend pipelines
-- Benchmark and evaluate Linux-based workflows on constrained systems (throughput, memory, latency trade-offs)
-- Translate technical results into clear, decision-ready documentation
+### Projects
 
-## Selected work
+| Project | Stack | Links |
+|---|---|---|
+| **AccessoBox** *(Capstone)* | Arduino, embedded C, CAD/3D printing | [GitHub](https://github.com/kadgitub7/AccessoBox-Source-Code-Capstone-project-Year-1/tree/main) · [Demo](https://youtube.com/shorts/jYOuo-QSWQE?feature=share) |
+| **Anomaly Detection Logger** | Flask, HDFS, Spark, SQL | [GitHub](https://github.com/kadgitub7/Anomaly-detection-for-Logging-system) · [Demo](https://www.youtube.com/watch?v=TJmfjUQGjUo&t=152s) |
+| **EZ-MLAI** | Python, REST APIs, ML pipeline | [GitHub](https://github.com/kadgitub7/ez-mlai-Automated-Machine-Learning-) · [Demo](https://www.youtube.com/watch?v=PeN1xNjkYBw) |
 
-- **AccessoBox (Capstone):** Arduino + embedded control + CAD/3D printing for an accessibility-focused wheelchair-mounted storage device  
-  [GitHub](https://github.com/kadgitub7/AccessoBox-Source-Code-Capstone-project-Year-1/tree/main) | [Demo](https://youtube.com/shorts/jYOuo-QSWQE?feature=share)
-- **Autonomous Anomaly Detection for Logging System:** Flask REST APIs + HDFS/Spark/SQL distributed analytics pipeline  
-  [GitHub](https://github.com/kadgitub7/Anomaly-detection-for-Logging-system) | [Demo](https://www.youtube.com/watch?v=TJmfjUQGjUo&t=152s)
-- **EZ-MLAI:** Backend-driven platform for dataset upload, model execution, and live prediction  
-  [GitHub](https://github.com/kadgitub7/ez-mlai-Automated-Machine-Learning-) | [Demo](https://www.youtube.com/watch?v=PeN1xNjkYBw)
+### Research
 
-## Research
+- **HADI Labs, McMaster** — FPGA devices for real-time Calcium Imaging algorithms
+- **ECE Lab, McMaster** — Novel flexible temperature sensing materials
+- Co-author on peer-reviewed publications in flexible sensing & ML for big data
 
-- Research Assistant, McMaster (HADI Labs): Developing FPGA devices to run Calcium Imaging Algorithms in real time
-- Research Assistant, McMaster (Electrical & Computer Engineering Lab): Developed and tested novel temperature sensing materials
-- Co-author on peer-reviewed publications in flexible temperature sensing and big data machine learning applications
+### Skills
 
-## Skills
+`Python` `Embedded C` `Verilog` `FPGA` `Flask` `REST APIs` `SQL` `Spark/HDFS` `Computer Architecture`
 
-`Python` `Embedded Systems` `REST APIs` `Flask` `SQL` `Spark/HDFS` `FPGA` `Verilog` `Computer Architecture`
+---
 
-## Connect
-
-- [LinkedIn](https://ca.linkedin.com/in/kadhir-ponnambalam-3211ab261)
-- [GitHub](https://github.com/kadgitub7)
-- Email: `kadhir.ponnambalam@gmail.com`
+[LinkedIn](https://ca.linkedin.com/in/kadhir-ponnambalam-3211ab261) · [GitHub](https://github.com/kadgitub7) · kadhir.ponnambalam@gmail.com
