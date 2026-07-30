@@ -1,6 +1,6 @@
 # Kadhir Ponnambalam
 
-McMaster Engineering (BEng Co-op, '25–'29) · Embedded systems · FPGA/Verilog · Backend tooling
+McMaster Computer Engineering (BEng Co-op, '25–'29) · VLSI · FPGA/Verilog · Quantum & Neuromorphic Computing
 
 ---
 
@@ -8,20 +8,20 @@ McMaster Engineering (BEng Co-op, '25–'29) · Embedded systems · FPGA/Verilog
 
 | Project | Stack | Links |
 |---|---|---|
-| **AccessoBox** *(Capstone)* | Arduino, embedded C, CAD/3D printing | [GitHub](https://github.com/kadgitub7/AccessoBox-Source-Code-Capstone-project-Year-1/tree/main) · [Demo](https://youtube.com/shorts/jYOuo-QSWQE?feature=share) |
-| **Anomaly Detection Logger** | Flask, HDFS, Spark, SQL | [GitHub](https://github.com/kadgitub7/Anomaly-detection-for-Logging-system) · [Demo](https://www.youtube.com/watch?v=TJmfjUQGjUo&t=152s) |
-| **EZ-MLAI** | Python, REST APIs, ML pipeline | [GitHub](https://github.com/kadgitub7/ez-mlai-Automated-Machine-Learning-) · [Demo](https://www.youtube.com/watch?v=PeN1xNjkYBw) |
+| **FPGA Accelerator Traffic Light** | Computer Vision, FPGA, Arduino, UART | [GitHub](https://github.com/kadgitub7/FPGA-AI-Accelerated-Traffic-Controller) · [Demo](https://www.youtube.com/watch?v=FnLTe4PYCGY) |
+| **FPGA Accelerated Arrhythmia Diagnosis** | Machine Learning, FPGA, Parallelism, Healthy Care | [GitHub](https://github.com/kadgitub7/FPGA-x-CDS-NI) · [Demo](https://www.youtube.com/watch?v=AOe1tF_W6hg) |
+| **MIPS Custom AI based Micro Processor** | Verilog, Computer Architecture, Posit, BNN | [GitHub](https://github.com/kadgitub7/Custom-Microprocessor-project) · [Demo]() |
 
 ### Research
 
-- **HADI Labs, McMaster** — FPGA devices for real-time Calcium Imaging algorithms
-- **ECE Lab, McMaster** — Novel flexible temperature sensing materials
+- **Opto Electronics Labs, McMaster** -> Cognitive Dynamic Systems Algorithm Devlopment
+- **MNSL Lab, McMaster** — Novel flexible temperature sensing materials
 - Co-author on peer-reviewed publications in flexible sensing & ML for big data
 
 ### Skills
 
-`Python` `Embedded C` `Verilog` `FPGA` `Flask` `REST APIs` `SQL` `Spark/HDFS` `Computer Architecture`
+`Verilog` `FPGA` `Embedded Systems` `Computer Architecture` `Quantum` `Neuromorphic Computing`
 
 ---
 
-[LinkedIn](https://ca.linkedin.com/in/kadhir-ponnambalam-3211ab261) · [GitHub](https://github.com/kadgitub7) · kadhir.ponnambalam@gmail.com
+[LinkedIn](https://ca.linkedin.com/in/kadhir-ponnambalam-3211ab261) · [GitHub](https://github.com/kadgitub7) · kadhir.ponnambalam@gmail.com · [Portfolio](https://kadgitub7.github.io/portfolio/)
