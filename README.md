@@ -14,8 +14,8 @@ McMaster Computer Engineering (BEng Co-op, '25–'29) · VLSI · FPGA/Verilog ·
 
 ### Research
 
-- **Opto Electronics Labs, McMaster** -> Cognitive Dynamic Systems Algorithm Devlopment
-- **MNSL Lab, McMaster** — Novel flexible temperature sensing materials
+- **Nano & Optoelectronics Research Labs, McMaster** -> Cognitive Dynamic Systems Algorithm Development under supervision of Dr. Jamal Deen, Dr. Shiva Kumar, Dr. Faisal
+- **Micro and Nano System Lab (MNSL), McMaster** — Novel flexible temperature sensing materials under supervision of Dr. Jamal Deen
 - Co-author on peer-reviewed publications in flexible sensing & ML for big data
 
 ### Skills
