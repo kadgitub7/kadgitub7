@@ -13,14 +13,14 @@ McMaster Computer Engineering (BEng Co-op, '25–'29) · Neuromorphic Computing 
 | **MIPS Custom AI based Micro Processor** | Verilog, Computer Architecture, Posit, BNN | [GitHub](https://github.com/kadgitub7/Custom-Microprocessor-project) · [Demo]() |
 
 ### Research
-
+- **MAC Analog Lab, McMaster** -> Fully Analog CMOS Neuromorphic Processing Unit for arrythmia detection under supervision of Dr. Mohamed B. Elamien
 - **Nano & Optoelectronics Research Labs, McMaster** -> Cognitive Dynamic Systems Algorithm Development under supervision of Dr. Jamal Deen, Dr. Shiva Kumar, Dr. Faisal
 - **Micro and Nano System Lab (MNSL), McMaster** -> Novel flexible temperature sensing materials under supervision of Dr. Jamal Deen
-- Co-author on peer-reviewed publications in flexible sensing & ML for big data
+- Co-author on peer-reviewed publications in flexible sensing, neuromuscular response, and ML for big data
 
 ### Skills
 
-`Verilog` `FPGA` `Embedded Systems` `Computer Architecture` `Quantum` `Neuromorphic Computing`
+`Verilog` `FPGA` `Embedded Systems` `Computer Architecture` `Neuromorphic Computing`
 
 ---
 
