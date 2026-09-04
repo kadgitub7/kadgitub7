@@ -1,6 +1,6 @@
 # Kadhir Ponnambalam
 
-McMaster Computer Engineering (BEng Co-op, '25–'29) · VLSI · FPGA/Verilog · Quantum & Neuromorphic Computing
+McMaster Computer Engineering (BEng Co-op, '25–'29) · Neuromorphic Computing · Machine Learning · Neuroscience · Analog CMOS VLSI · FPGA/Verilog
 
 ---
 
