@@ -1,6 +1,6 @@
 # Kadhir Ponnambalam
 
-McMaster Computer Engineering (BEng Co-op, '25–'29) · Neuromorphic Computing · Machine Learning · Neuroscience · Analog CMOS VLSI · FPGA/Verilog
+McMaster Computer Engineering (BEng Co-op, '25–'30) · Neuromorphic Computing · Machine Learning · Neuroscience · Analog CMOS VLSI · FPGA/Verilog
 
 ---
 
@@ -10,7 +10,6 @@ McMaster Computer Engineering (BEng Co-op, '25–'29) · Neuromorphic Computing 
 |---|---|---|
 | **FPGA Accelerator Traffic Light** | Computer Vision, FPGA, Arduino, UART | [GitHub](https://github.com/kadgitub7/FPGA-AI-Accelerated-Traffic-Controller) · [Demo](https://www.youtube.com/watch?v=FnLTe4PYCGY) |
 | **FPGA Accelerated Arrhythmia Diagnosis** | Machine Learning, FPGA, Parallelism, Healthy Care | [GitHub](https://github.com/kadgitub7/FPGA-x-CDS-NI) · [Demo](https://www.youtube.com/watch?v=AOe1tF_W6hg) |
-| **MIPS Custom AI based Micro Processor** | Verilog, Computer Architecture, Posit, BNN | [GitHub](https://github.com/kadgitub7/Custom-Microprocessor-project) · [Demo]() |
 
 ### Research
 - **MAC Analog Lab, McMaster** -> Fully Analog CMOS Neuromorphic Processing Unit for arrythmia detection under supervision of Dr. Mohamed B. Elamien
@@ -21,7 +20,7 @@ McMaster Computer Engineering (BEng Co-op, '25–'29) · Neuromorphic Computing 
 
 ### Skills
 
-`Verilog` `FPGA` `Embedded Systems` `Computer Architecture` `Neuromorphic Computing`
+`Verilog` `FPGA` `Embedded Systems` `Neuromorphic Computing`
 
 ---
 
