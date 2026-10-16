@@ -10,7 +10,7 @@ McMaster Computer Engineering (BEng Co-op, '25–'30) · Neuromorphic Computing 
 |---|---|---|
 | **From Scratch LIF SNN on FPGA** | Machine Learning, FPGA, FSM, Digital Logic | [GitHub](https://github.com/kadgitub7/LIF-based-SNN-on-FPGA) · [Demo](https://www.youtube.com/watch?v=P6Z8AxZ7rmU) |
 | **FPGA Accelerator Traffic Light** | Computer Vision, FPGA, Arduino, UART | [GitHub](https://github.com/kadgitub7/FPGA-AI-Accelerated-Traffic-Controller) · [Demo](https://www.youtube.com/watch?v=P6Z8AxZ7rmU) |
-| **FPGA Accelerated Arrhythmia Diagnosis** | Machine Learning, FPGA, Parallelism, Healthy Care | [GitHub](https://github.com/kadgitub7/FPGA-x-CDS-NI) · [Demo](https://www.youtube.com/watch?v=AOe1tF_W6hg) |
+| **FPGA Accelerated Arrhythmia Diagnosis** | Machine Learning, FPGA, Parallelism, Health Care | [GitHub](https://github.com/kadgitub7/FPGA-x-CDS-NI) · [Demo](https://www.youtube.com/watch?v=AOe1tF_W6hg) |
 
 ### Research
 - **MAC Analog Lab, McMaster** -> Fully Analog CMOS Neuromorphic Processing Unit for arrythmia detection under supervision of Dr. Mohamed B. Elamien
